@@ -23,33 +23,39 @@ to supplement my repositories and learning. Like a guide of sorts, with prograss
 I try to keep a primary focus on at most three courses. You'll see my progress with them in the following table. The 
 table is mostly for me as a reminder to not start seven something courses and ultimately finish none of them.
 
-|               Course                            | Conpleted |
-| ----------------------------------------------- | --------- |
-| udemy-exp: Just Express. In Detail.             |    45%    |
-| udemy-vue: Vue Masterclass                      |     0%    |
-|   ztm-crd: Complete React Developer             |     0%    |
+|                     Courses                      | Completed |
+| ------------------------------------------------ | --------- |
+|    ztm-crd: Complete React Developer             |     7%    |
+|  udemy-exp: Just Express. In Detail.             |    62%    |
+| udemy-tail: Tailwind CSS From Scratch            |     0%    |
 
-[as of 07/10/22]
-
+[as of 07/11/22]
 
 ### Upcoming
 
-- > udemy-tail: Tailwind CSS From Scratch
-  - `Follows udemy-exp`
-  - I was gonna take some time to learn bootstrap, but I've decided I'd rather try my hand at tailwind. I understand
-    they are not fundamentally the same, but I believe both can achieve a desirable goal of putting out a website
-    faster. I just prefer tailwind's take with the utility-first paradigm.
-- > ztm-sql: Complete SQL + Databases
-  - `Follows any, except udemy-exp`
-  - Want to learn how to use a sql database and manage it properly.
+- > udemy-mon: MongoDb
+  - `Follows any except ztm-crd`
+  - I originally wanted to learn SQL first, but from what I see myself building early on, learning mongoDB now would
+    probably pay off better.
+- > ztm-tsc: Typescript
+  - `Follows any except ztm-crd`
+  - Gotta move on to Typescript at some point.
+- > udemy-misv: 
+  - `Follows ztm-crd`
+  - This is a big one, but it covers just about everything I want to learn after finishing most of everything else.
 
-## Supportive
+There's going to be a special case here with udemy-mjb from my support classes. If I somehow manage to finish
+ztm-crd before it, I will instead move udemy-mjb into its place, thus delaying udemy-misv. I really want my Javascript
+to feel strong when I get to it, and therefore don't want to leave any loose ends.
 
-As stated, those are my **primary** focuses. They're ones I try to really drill into on a day to day basis. The 
-following table represents what I call my support courses. They represent things I'll learn whether I do it via course 
-content or through pet projects. As such, I tend to go through these at around half pace. I keep these at a solid two.
+## Support Courses
 
-|               Course                             | Conpleted |
+As stated, the above courses are my **primary** focuses. They're ones I try to really drill into on a day to day basis. 
+The following table represents what I call my support courses. They represent things I'll learn whether I do it via 
+course content or through pet projects. As such, I tend to go through these at around half pace. I keep these at a 
+solid two.
+
+|               Course                             | Completed |
 | ------------------------------------------------ | --------- |
 | udemy-mhc: Modern HTML & CSS From the Beginning  |    49%    |
 | udemy-mjb: The Modern Javascript Bootcamp Course |    40%    |
@@ -69,6 +75,6 @@ content or through pet projects. As such, I tend to go through these at around h
 
 The following table lists all courses I've completed to date.
 
-|                           Completed                         |
-| ----------------------------------------------------------- |
-| ✔ shay-lowe: Learn to Code HTML & CSS                       |
+|                         ✔ Completed                        |
+| ---------------------------------------------------------- |
+|  shay-lowe: Learn to Code HTML & CSS                       |
