@@ -14,7 +14,7 @@ I like to follow along to courses online as I feel that's the best way I learn. 
 tabs in a browser with all being completely unrelated subject material.
 
 So to keep myself on the right track and disuade distractions with the courses I find online, I've created this README
-to supplement my repositories and learning. Like a guide of sorts, with prograss completion tracking.
+to supplement my repositories and learning. Like a guide of sorts, with progress completion tracking.
 
 ## The Courses
 
@@ -23,21 +23,21 @@ to supplement my repositories and learning. Like a guide of sorts, with prograss
 I try to keep a primary focus on at most three courses. You'll see my progress with them in the following table. The 
 table is mostly for me as a reminder to not start seven something courses and ultimately finish none of them.
 
-|                     Courses                      | Completed |
-| ------------------------------------------------ | --------- |
-|    ztm-crd: Complete React Developer             |     7%    |
-|  udemy-exp: Just Express. In Detail.             |    62%    |
-| udemy-tail: Tailwind CSS From Scratch            |     0%    |
+|                     Courses                      |      Completed    |
+| ------------------------------------------------ | ----------------- |
+|    ztm-crd: Complete React Developer             |     24% (↑24%)    |
+|  udemy-exp: Just Express. In Detail.             |     70% (↑25%)    |
+| udemy-tail: Tailwind CSS From Scratch            |     10% (↑10%)    |
 
-[as of 07/11/22]
+[as of 07/17/22]
 
 ### Upcoming
 
-- > udemy-mon: MongoDb
+- > ztm-sql: Complete SQL → ztm-aws: AWS
   - `Follows any except ztm-crd`
-  - I originally wanted to learn SQL first, but from what I see myself building early on, learning mongoDB now would
-    probably pay off better.
-- > ztm-tsc: Typescript
+  - MongoDB, SQL, MongoDB. Back to SQL, most courses I'm currently learning from use some relational database. I can
+    save MongoDB for later.
+- > ztm-tsc: Typescript → udemy-cyp: Cypress
   - `Follows any except ztm-crd`
   - Gotta move on to Typescript at some point.
 - > udemy-misv: 
@@ -55,21 +55,21 @@ The following table represents what I call my support courses. They represent th
 course content or through pet projects. As such, I tend to go through these at around half pace. I keep these at a 
 solid two.
 
-|               Course                             | Completed |
-| ------------------------------------------------ | --------- |
-| udemy-mhc: Modern HTML & CSS From the Beginning  |    49%    |
-| udemy-mjb: The Modern Javascript Bootcamp Course |    40%    |
+|               Course                             |     Completed    |
+| ------------------------------------------------ | ---------------- |
+| udemy-mhc: Modern HTML & CSS From the Beginning  |    61% (↑12%)    |
+| udemy-mjb: The Modern Javascript Bootcamp Course |    40% (0%)      |
 
-[as of 07/10/22]
+[as of 07/17/22]
 
 ### Upcoming
 
 - > udemy-acs: Advanced CSS and Sass
   - `Follows udemy-mhc`
   - Continue learning html and css. Familiarize myself with sass.
-- > ztm-node: Complete Node.js Developer
+- > kent-test: Testing Javascript
   - `Follows udemy-mjb`
-  - Get real comfy with node.js
+  - Learn to test. If there is one thing I never really gave time to, it was testing. Looking back, I really regret that.
 
 # Last But Not Least
 
@@ -77,4 +77,4 @@ The following table lists all courses I've completed to date.
 
 |                         ✔ Completed                        |
 | ---------------------------------------------------------- |
-|  shay-lowe: Learn to Code HTML & CSS                       |
+|  shay-howe: Learn to Code HTML & CSS                       |
