@@ -25,11 +25,11 @@ table is mostly for me as a reminder to not start seven something courses and ul
 
 |                     Courses                      |      Completed    |
 | ------------------------------------------------ | ----------------- |
-|    ztm-crd: Complete React Developer             |     24% (↑24%)    |
-|  udemy-exp: Just Express. In Detail.             |     70% (↑25%)    |
-| udemy-tail: Tailwind CSS From Scratch            |     10% (↑10%)    |
+|    ztm-crd: Complete React Developer             |     34% (↑10%)    |
+|  udemy-exp: Just Express. In Detail.             |     80% (↑12%)    |
+| udemy-tail: Tailwind CSS From Scratch            |     10% (↑0%)    |
 
-[as of 07/17/22]
+[as of 07/24/22]
 
 ### Upcoming
 
@@ -57,17 +57,17 @@ solid two.
 
 |               Course                             |     Completed    |
 | ------------------------------------------------ | ---------------- |
-| udemy-mhc: Modern HTML & CSS From the Beginning  |    61% (↑12%)    |
-| udemy-mjb: The Modern Javascript Bootcamp Course |    40% (0%)      |
+| udemy-mhc: Modern HTML & CSS From the Beginning  |    66% (↑5%)    |
+| udemy-mjb: The Modern Javascript Bootcamp Course |    40% (↑0%)     |
 
-[as of 07/17/22]
+[as of 07/24/22]
 
 ### Upcoming
 
 - > udemy-acs: Advanced CSS and Sass
   - `Follows udemy-mhc`
   - Continue learning html and css. Familiarize myself with sass.
-- > kent-test: Testing Javascript
+- > udemy-jut: Javascript Unit Testing
   - `Follows udemy-mjb`
   - Learn to test. If there is one thing I never really gave time to, it was testing. Looking back, I really regret that.
 
