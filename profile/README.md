@@ -27,7 +27,7 @@ table is mostly for me as a reminder to not start seven something courses and ul
 | ------------------------------------------------ | ----------------- |
 |    ztm-crd: Complete React Developer             |     34% (↑10%)    |
 |  udemy-exp: Just Express. In Detail.             |     80% (↑12%)    |
-| udemy-tail: Tailwind CSS From Scratch            |     10% (↑0%)    |
+| udemy-tail: Tailwind CSS From Scratch            |     10% (↑0%)     |
 
 [as of 07/24/22]
 
